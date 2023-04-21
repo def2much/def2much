@@ -1,8 +1,8 @@
-#Hello world
+Hello world
 
 ###
 
-##Nicolas here, I'm new to coding world, glad to meet you
+Nicolas here, I'm new to coding world, glad to meet you
 
 ###
 
