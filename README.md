@@ -2,9 +2,8 @@
 
 ###
 
-##Nicolas here, I'm new to coding world, glad to join you
+##Nicolas here, I'm new to coding world, glad to meet you
 
 ###
 
-<!--
--->
+
